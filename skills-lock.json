@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "3d-web-experience": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/3d-web-experience/SKILL.md",
+      "computedHash": "e9ab44e2dd01d6dc161eb7433d0459d2100814d01d844c57b9e2f9226cf36a90"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
