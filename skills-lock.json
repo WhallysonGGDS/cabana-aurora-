@@ -13,6 +13,12 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
     },
+    "frontend-code-review": {
+      "source": "langgenius/dify",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/frontend-code-review/SKILL.md",
+      "computedHash": "1dae9ffa8374de0c687c72c380f079daca1ab57254ad3d4fd804cbc2d6d9abfd"
+    },
     "frontend-design": {
       "source": "anthropics/skills",
       "sourceType": "github",
