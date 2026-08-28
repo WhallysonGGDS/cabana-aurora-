@@ -7,6 +7,12 @@
       "skillPath": "skills/3d-web-experience/SKILL.md",
       "computedHash": "e9ab44e2dd01d6dc161eb7433d0459d2100814d01d844c57b9e2f9226cf36a90"
     },
+    "ai-video-generation": {
+      "source": "skills-101/superpowers",
+      "sourceType": "github",
+      "skillPath": "tools/video/ai-video-generation/SKILL.md",
+      "computedHash": "8524cc49ad3dca2a4502903234061b307636e44b08496e982747cdb9590f5556"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
